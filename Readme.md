@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # How to export colored GridView
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t334596)**
+**[[Run Online]](https://codecentral.devexpress.com/t334596/)**
 <!-- run online end -->
 
 
