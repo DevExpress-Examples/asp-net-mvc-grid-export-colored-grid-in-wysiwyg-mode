@@ -36,7 +36,7 @@ settings.SettingsExport.RenderBrick = (sender, e) => {
 
 ## Files to Review
 
-* [HomeController.cs](./CS/Controllers/HomeController.cs#L54-63) (VB: [HomeController.vb](./VB/Controllers/HomeController.vb))
+* [HomeController.cs](./CS/Controllers/HomeController.cs#L54-L63) (VB: [HomeController.vb](./VB/Controllers/HomeController.vb))
 * [Model.cs](./CS/Models/Model.cs) (VB: [Model.vb](./VB/Models/Model.vb))
 * [GridViewPartialProducts.cshtml](./CS/Views/Home/GridViewPartialProducts.cshtml)
 * [Index.cshtml](./CS/Views/Home/Index.cshtml)
