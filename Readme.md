@@ -31,7 +31,7 @@ settings.SettingsExport.RenderBrick = (sender, e) => {
 ```
 
 
-> **Note**
+> **Note**  
 > Starting with v15.2, the grid maintains conditional formatting styles in the exported document. You can use the [GridViewSettings.FormatConditions](https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.GridViewSettings-1.FormatConditions) rules to define conditional formatting in browse mode and keep the applied appearance in the exported document.
 
 ## Files to Review
