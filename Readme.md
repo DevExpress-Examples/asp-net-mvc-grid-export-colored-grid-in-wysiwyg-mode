@@ -9,7 +9,7 @@
 **[[Run Online]](https://codecentral.devexpress.com/t334596/)**
 <!-- run online end -->
 
-This example shows how to color the exported grid when the WYSIWYG export mode is used.
+This example shows how to color the exported grid when WYSIWYG export mode is used.
 
 ![Export colored grid](colored-export.png)
 
@@ -32,7 +32,7 @@ settings.SettingsExport.RenderBrick = (sender, e) => {
 
 
 > **Note**  
-> Starting with v15.2, the grid maintains conditional formatting styles in the exported document. You can use the [GridViewSettings.FormatConditions](https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.GridViewSettings-1.FormatConditions) rules to define conditional formatting in browse mode and keep the applied appearance in the exported document.
+> Starting from v15.2, the grid maintains conditional formatting styles in the exported document. You can use the [GridViewSettings.FormatConditions](https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.GridViewSettings-1.FormatConditions) rules to define conditional formatting in browse mode and keep the applied appearance in the exported document.
 
 ## Files to Review
 
