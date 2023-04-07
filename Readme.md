@@ -50,4 +50,6 @@ settings.SettingsExport.RenderBrick = (sender, e) => {
 * [Grid View - Export with Format Conditions](https://demos.devexpress.com/MVCxGridViewDemos/Exporting/ExportWithFormatConditions)
 ## More Examples
 
-* [Grid View for MVC - How to export a colored grid in Data Aware export mode](todoaspxgridview-how-to-export-a-colored-grid-when-the-data-aware-export-mode-is-used-t262239)
+* [Grid View for MVC - How to export a colored grid in Data Aware export mode](https://github.com/DevExpress-Examples/asp-net-mvc-grid-export-colored-grid-in-data-aware-mode)
+* [Grid View for Web Forms - How to export a colored grid in Data Aware export mode](https://github.com/DevExpress-Examples/asp-net-web-forms-grid-export-colored-grid-in-data-aware-mode)
+* [Grid View for Web Forms - How to export a colored grid in WYSIWYG export mode](https://github.com/DevExpress-Examples/asp-net-web-forms-grid-export-colored-grid-in-wysiwyg-mode)
