@@ -5,9 +5,6 @@
 <!-- default badges end -->
 
 # Grid View for MVC - How to export a colored grid in WYSIWYG export mode
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128551496/)**
-<!-- run online end -->
 
 This example shows how to color the exported grid when WYSIWYG export mode is used.
 
