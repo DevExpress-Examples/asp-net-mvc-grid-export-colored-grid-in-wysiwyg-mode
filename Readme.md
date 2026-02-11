@@ -52,7 +52,7 @@ settings.SettingsExport.RenderBrick = (sender, e) => {
 * [Grid View for Web Forms - How to export a colored grid in Data Aware export mode](https://github.com/DevExpress-Examples/asp-net-web-forms-grid-export-colored-grid-in-data-aware-mode)
 * [Grid View for Web Forms - How to export a colored grid in WYSIWYG export mode](https://github.com/DevExpress-Examples/asp-net-web-forms-grid-export-colored-grid-in-wysiwyg-mode)
 <!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+## Does this example address your development requirements/objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-grid-export-colored-grid-in-wysiwyg-mode&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-grid-export-colored-grid-in-wysiwyg-mode&~~~was_helpful=no)
 
